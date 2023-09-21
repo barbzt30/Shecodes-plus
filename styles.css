@@ -1,7 +1,7 @@
-h1 {
+h1{
     color: #050577;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 50px;
+font-family: "Times New Roman", Times, serif;
+font-size: 50px;
 }
 
 .overlay {
@@ -21,16 +21,16 @@ h1 {
 }
 
 .col {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: "Times New Roman", Times, serif;
 }
 
 .name {
     color: purple;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: "Times New Roman", Times, serif;
 }
 
 .card {
-    background-color: transparent;
+    background-color: turquoise;
 }
 
 .card-text {
@@ -92,5 +92,5 @@ li {
 
 .conditions {
     text-align: left;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: "Times New Roman", Times, serif;
 }
